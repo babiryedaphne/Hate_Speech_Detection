@@ -20,3 +20,7 @@ The research methodology involves several steps:
 4. Balancing the Dataset: Applying the Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset and improve model performance on the minority class.
 5. Model Exploration: Applying the Naive Bayes, SVM, and Random Forest models to the balanced and imbalanced datasets and evaluating their performance using precision, recall, F1-score, and accuracy.
 6. Hyperparameter Optimization: Using grid search to find the best hyperparameters for the Random Forest model on both the balanced and imbalanced datasets.
+
+## Shared Files 
+1. Project Code in Python
+2. Research paper (pdf)
